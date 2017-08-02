@@ -1,0 +1,9 @@
+#container {
+    width: 970px;
+    border: 1px solid black;
+}
+
+img {
+    display: inline-block;
+    width: 45%;
+}
